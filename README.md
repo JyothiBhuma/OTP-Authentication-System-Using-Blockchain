@@ -85,10 +85,10 @@ This project is a secure One-Time Password (OTP) authentication system that util
 
 ## 👨‍💻 Team Members
 
-- **[Your Name]** – Team Lead, Backend Developer
-- **[Member 2]** – Smart Contract Developer
-- **[Member 3]** – Frontend Developer
-- **[Member 4]** – Testing and Documentation
+- Bhuma Naga Siva Jyothisri – Team Lead, Backend Developer
+- Avvaru Venumadhavi – Smart Contract Developer
+- Gogulamudi Padmaja – Frontend Developer
+- Divi Anjali – Testing and Documentation
 
 ## 📄 License
 
